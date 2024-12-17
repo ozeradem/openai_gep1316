@@ -21,7 +21,7 @@ thread = client.beta.threads.create(
         {
             "role": "user",
             # Update this with the query you want to use.
-            "content": "Zaman planlaması hakkında tavsiyelerin neler?",
+            "content": "Yeteneklerin hakkında bilgi verebilir misin?",
         }
     ]
 )
